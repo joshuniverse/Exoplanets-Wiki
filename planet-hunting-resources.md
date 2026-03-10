@@ -6,6 +6,17 @@ description: >-
 
 # Planet-hunting resources
 
+### In this wiki
+
+Use these when you want context, not just links.
+
+* [Detection methods (overview)](detection-and-confirmation/detection-methods-overview.md)
+* [Validation, confirmation, and false positives](detection-and-confirmation/validation-confirmation-and-false-positives.md)
+* [Missions & telescopes (overview)](missions-and-telescopes/missions-and-telescopes-overview.md)
+* [Precision radial-velocity spectrographs](missions-and-telescopes/precision-radial-velocity-spectrographs.md)
+* [Ground-based transit surveys](missions-and-telescopes/ground-based-transit-surveys.md)
+* [JWST for exoplanets](missions-and-telescopes/jwst-for-exoplanets.md)
+
 ### Quick links
 
 #### Core catalogs

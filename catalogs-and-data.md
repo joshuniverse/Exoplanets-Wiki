@@ -4,6 +4,15 @@ description: Where to get exoplanet tables, light curves, and analysis-ready dat
 
 # Catalogs & data
 
+### In this wiki
+
+These pages help you interpret catalog fields and measurement provenance.
+
+* [Key terms & definitions](basics/key-terms-and-definitions.md)
+* [Naming & designations](basics/naming-and-designations.md)
+* [Measuring exoplanet properties](basics/measuring-exoplanet-properties.md)
+* [Detection methods (overview)](detection-and-confirmation/detection-methods-overview.md)
+
 ### Exoplanet catalogs
 
 * [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
